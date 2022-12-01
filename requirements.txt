@@ -1,6 +1,2 @@
-gunicorn>=19.8.1
-dash>=1.0.0
-pyqt5
-
 git+https://github.com/scott-huberty/mne-python@mne-eyetrack_revisions#egg=mne
 
